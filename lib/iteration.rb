@@ -1,4 +1,4 @@
-def join_ingredients(src)
+mdef join_ingredients(src)
   result = []
   i = 0
   while i < src.length do
